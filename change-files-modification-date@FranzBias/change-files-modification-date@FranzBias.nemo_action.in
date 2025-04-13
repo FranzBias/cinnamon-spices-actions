@@ -1,0 +1,9 @@
+[Nemo Action]
+
+_Name=Change modification date
+_Comment=Change the modification date of the selected file(s)
+Exec=<change-files-modification-date@FranzBias/change-files-modification-date.sh %F>
+Icon-Name=emblem-system
+Selection=any
+Extensions=any;
+Active=true
